@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Responsive canvas side-scroller with physics vector collision detections.
+  name: flappy-bird-canvas version: 1.0 type: Repository author: VarshuAi description: >   Responsive canvas side-scroller with physics vector collision detections. primary_tech: CSS
 primary_tech: CSS
 ```
 
